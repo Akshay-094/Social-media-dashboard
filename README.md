@@ -1,5 +1,4 @@
 # Social-media-dashboard
- About Top 4 social media apps 
 🧩 Problem Statement
 
 In today’s digital landscape, businesses generate large volumes of data across multiple channels such as social media, content platforms, and customer interactions. However, this data often remains underutilized due to a lack of structured analysis and visualization.
